@@ -1,0 +1,28 @@
+_repo: The-Gourmet-s-Guide-to-London_53304
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Newnham-Davis, Lieut.-Col. (Nathaniel)
+    aliases:
+    - Newnham-Davis, N. (Nathaniel)
+    - Newnham-Davis, Nathaniel
+    birthdate: 1854
+    deathdate: 1917
+    gutenberg_agent_id: '8300'
+    url: http://www.gutenberg.org/2009/agents/8300
+description: ''
+gutenberg_issued: '2016-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53304'
+  lccn: '48035832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Restaurants -- England -- London -- Guidebooks'
+- !lcc 'DA'
+- GITenberg
+title: The Gourmet's Guide to London
+url: http://www.gutenberg.org/ebooks/53304
